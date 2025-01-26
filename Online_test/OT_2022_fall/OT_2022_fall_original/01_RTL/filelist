@@ -1,0 +1,5 @@
+./TESTBED.v
+//./PATTERN.v
+
++libext+.v
+-y /usr/synthesis/dw/sim_ver/
